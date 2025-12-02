@@ -82,4 +82,3 @@ bt_entrar.pack(pady=25)
 # LOOP PRINCIPAL
 # ==============================
 login.mainloop()
-a
