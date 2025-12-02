@@ -554,4 +554,3 @@ login.bind('<Return>', fazer_login)
 
 # Inicia a aplicação
 login.mainloop()
-a
